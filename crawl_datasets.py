@@ -121,6 +121,7 @@ if __name__ == "__main__":
     ## read the list of links
     with open("dataset_links.txt", "r") as f:
         links = f.read().split("\n")
+    ## if github links already exists, remove, make it new
     if "github_links.txt" in os.listdir():
         os.remove("github_links.txt")
     gitlinks = open("github_links.txt", "w")
@@ -169,6 +170,7 @@ if __name__ == "__main__":
                 ## So we wait 3s and open the link then
                 time.sleep(3)
                 webbrowser.open(link)
+        ## add link, write to file
         gitlink = f"https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/{name}.csv\n"
         gitlinks.write(gitlink)
     gitlinks.close()
