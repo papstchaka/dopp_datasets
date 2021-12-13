@@ -106,6 +106,9 @@ def extract_zip(filename:str) -> None:
     os.rename(file, f'{filename[:-4]}.csv')
     ## get rid of zip file. We don't need it anymore
     os.remove(filename)
+    ## read data, ski first 4 rows (they only contain an annoying header)
+    data = pd.read_csv(f'{filename[:-4]}.csv', skiprows = 4)
+    data.to_csv(f'{filename[:-4]}.csv')
     
     
 if __name__ == "__main__":
