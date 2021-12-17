@@ -158,7 +158,7 @@ if __name__ == "__main__":
                 ## go through the links of years
                 for l in tqdm(year_links):
                     ## get data
-                    raw_data = get_data(link)
+                    raw_data = get_data(l)
                     ## add year information
                     raw_data["Year"] = int(l.split("=")[-1].split("-")[0])
                     data.append(raw_data)
