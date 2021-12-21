@@ -15,5 +15,5 @@ https://ourworldindata.org/grapher/public-health-expenditure-share-gdp-owid heal
 https://ourworldindata.org/explorers/water-and-sanitation?facet=none&hideControls=true&Resource=Drinking+water&Level+of+Access=Safely+managed&Residence=Total&Relative+to+population=Share+of+population clean_water
 https://ourworldindata.org/grapher/expected-years-of-schooling schooling
 https://ourworldindata.org/grapher/ti-corruption-perception-index corruption
-https://stats.oecd.org/sdmx-json/data/DP_LIVE/.POP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en population
+https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv population
 https://www.numbeo.com/cost-of-living/rankings_by_country.jsp cost_of_living
