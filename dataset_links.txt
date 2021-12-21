@@ -11,7 +11,7 @@ https://ourworldindata.org/grapher/happiness-cantril-ladder happiness
 https://ourworldindata.org/grapher/gender-inequality-index-from-the-human-development-report?time=2010 gender_equality
 https://ourworldindata.org/grapher/prevalence-of-tobacco-use-sdgs smoking
 https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol alcohol
-https://ourworldindata.org/grapher/public-health-expenditure-share-gdp-owid health
+https://api.worldbank.org/v2/en/indicator/SH.XPD.CHEX.GD.ZS?downloadformat=csv health
 https://ourworldindata.org/explorers/water-and-sanitation?facet=none&hideControls=true&Resource=Drinking+water&Level+of+Access=Safely+managed&Residence=Total&Relative+to+population=Share+of+population clean_water
 https://ourworldindata.org/grapher/expected-years-of-schooling schooling
 https://ourworldindata.org/grapher/ti-corruption-perception-index corruption
