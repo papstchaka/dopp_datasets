@@ -6,14 +6,14 @@ https://api.worldbank.org/v2/en/indicator/EG.FEC.RNEW.ZS?downloadformat=csv rene
 https://api.worldbank.org/v2/en/indicator/SP.URB.TOTL.IN.ZS?downloadformat=csv urbanisation
 https://api.worldbank.org/v2/en/indicator/EN.POP.DNST?downloadformat=csv population_density
 https://api.worldbank.org/v2/en/indicator/MS.MIL.XPND.GD.ZS?downloadformat=csv military
+https://api.worldbank.org/v2/en/indicator/SH.XPD.CHEX.GD.ZS?downloadformat=csv health
+https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv population
 https://ourworldindata.org/grapher/PM25-air-pollution air_pollution
 https://ourworldindata.org/grapher/happiness-cantril-ladder happiness
 https://ourworldindata.org/grapher/gender-inequality-index-from-the-human-development-report?time=2010 gender_equality
 https://ourworldindata.org/grapher/prevalence-of-tobacco-use-sdgs smoking
 https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol alcohol
-https://api.worldbank.org/v2/en/indicator/SH.XPD.CHEX.GD.ZS?downloadformat=csv health
 https://ourworldindata.org/explorers/water-and-sanitation?facet=none&hideControls=true&Resource=Drinking+water&Level+of+Access=Safely+managed&Residence=Total&Relative+to+population=Share+of+population clean_water
 https://ourworldindata.org/grapher/expected-years-of-schooling schooling
 https://ourworldindata.org/grapher/ti-corruption-perception-index corruption
-https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv population
 https://www.numbeo.com/cost-of-living/rankings_by_country.jsp cost_of_living
