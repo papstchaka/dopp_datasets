@@ -1,7 +1,7 @@
 https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/taxes.csv
 https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/child_mortality.csv
 https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/gdp.csv
-https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/life_expacticy.csv
+https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/life_expectancy.csv
 https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/renewables.csv
 https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/urbanisation.csv
 https://raw.githubusercontent.com/papstchaka/dopp_datasets/master/data/population_density.csv
